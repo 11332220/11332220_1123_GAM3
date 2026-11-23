@@ -5591,10 +5591,10 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
-    y: 0.08909574
-    width: 1
-    height: 0.8218085
+    x: 0.00022798435
+    y: 0
+    width: 0.999544
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -27964,10 +27964,10 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
-    y: 0.08909574
-    width: 1
-    height: 0.8218085
+    x: 0.00022798435
+    y: 0
+    width: 0.999544
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -28041,7 +28041,13 @@ MonoBehaviour:
   allowSkip: 1
   allowAllSkip: 0
   unscaledTime: 0
-  fadeTextures: []
+  fadeTextures:
+  - texture: {fileID: 2800000, guid: 37f1dba80f4bda14a8d46860b53e9876, type: 3}
+    videoPath: 
+    fadeInTime: 1
+    duration: 3
+    fadeOutTime: 1
+    allowSkip: 0
   videoPlayer: {fileID: 0}
 --- !u!114 &1561633315
 MonoBehaviour:
@@ -30651,7 +30657,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 09888eb1b95738b43bda34c4c0243815, type: 3}
+  m_Sprite: {fileID: 720118652224413485, guid: 65c61338bd8c7d14f8d655bc1622a8da, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
